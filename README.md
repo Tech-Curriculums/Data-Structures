@@ -10,3 +10,4 @@ This course comes in at least two flavors (Java and C).
 ## References
 
 http://www.comp.nus.edu.sg/~stevenha/visualization/
+
