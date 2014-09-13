@@ -12,3 +12,9 @@ This course comes in at least two flavors (Java and C).
 http://www.comp.nus.edu.sg/~stevenha/visualization/
 
 http://www.cs.cmu.edu/~adamchik/15-121/lectures/Binary%20Heaps/heaps.html
+
+
+
+## algorithm visualizations:
+
+http://www.algomation.com/algorithm/directed-graph-circular-layout
